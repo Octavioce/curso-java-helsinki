@@ -1,0 +1,12 @@
+bin/
+build/
+target/
+.gradle/
+.idea/
+.project
+.classpath
+.settings/
+*.iml
+.nb-gradle/
+.tmc/
+tmcbeans/
