@@ -10,3 +10,6 @@ target/
 .nb-gradle/
 .tmc/
 tmcbeans/
+.tmcproject.yml
+.tmc/
+nbproject/
