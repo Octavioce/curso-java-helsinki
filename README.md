@@ -14,10 +14,14 @@ O MOOC de Java da Helsinki é um dos cursos mais recomendados do mundo para apre
 * **Ambiente:** TMC (Test My Code) para validação dos exercícios.
 
 ## 🚀 Progresso
-- [ ] Parte 1 -> Andamento 
-- [ ] Parte 2
-- [ ] Parte 3
+Java I
+- [X] Parte 1 - Concluído
+- [ ] Parte 2 - Em andamento
+- [ ] Parte 3 
 - [ ] Parte 4
+- [ ] Parte 5
+- [ ] Parte 6
+- [ ] Parte 7
 
 ---
 *Repositório criado para fins de estudo e prática de conceitos de Back-end.*
