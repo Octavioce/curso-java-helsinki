@@ -16,8 +16,8 @@ O MOOC de Java da Helsinki é um dos cursos mais recomendados do mundo para apre
 ## 🚀 Progresso
 Java I
 - [X] Parte 1 - Concluído
-- [ ] Parte 2 - Em andamento
-- [ ] Parte 3 
+- [X] Parte 2 - Concluído
+- [ ] Parte 3 - Em andamento.
 - [ ] Parte 4
 - [ ] Parte 5
 - [ ] Parte 6
